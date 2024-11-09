@@ -1,0 +1,7 @@
+<style>
+embed {
+  height: 100%;
+  width: 100%;
+}
+</style>
+<embed src="https://www.xbox.com/en-us/play" />
